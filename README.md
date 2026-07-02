@@ -1,20 +1,19 @@
-
-# Hi, I'm Joana Lima Coyle 👋
+# Hi, I'm Joana Lima Coyle 
 
 # Computer Vision & AI Data Annotation Portfolio
 
-I'm a Computer Vision and AI Data Annotation practitioner with hands-on experience creating high-quality datasets for machine learning and computer vision applications.
+I'm an aspiring Computer Vision and AI Data Annotation professional with hands-on experience creating high-quality datasets for machine learning and computer vision applications.
 
 My portfolio demonstrates image annotation, video annotation, object tracking, semantic segmentation, and dataset quality assurance using industry-standard annotation platforms and structured annotation workflows.
 
 ---
 
-## 🛠 Annotation & Technical Stack
+## 🛠️ Annotation & Technical Stack
 
 ![CVAT](https://img.shields.io/badge/CVAT-Annotation-blue)
 ![Labelbox](https://img.shields.io/badge/Labelbox-Computer%20Vision-green)
 ![Label Studio](https://img.shields.io/badge/Label%20Studio-Annotation-orange)
-![Roboflow](https://img.shields.io/badge/Roboflow-AI-red)
+![Roboflow](https://img.shields.io/badge/Roboflow-Computer%20Vision-red)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -41,7 +40,7 @@ My portfolio demonstrates image annotation, video annotation, object tracking, s
 - Frame-by-Frame Annotation
 - Object Identity Tracking
 - Video Quality Review
-- Annotation Correction
+- Annotation Review & Correction
 
 ### 📊 Dataset Quality
 
@@ -54,57 +53,83 @@ My portfolio demonstrates image annotation, video annotation, object tracking, s
 
 ---
 
+# Annotation Workflow
+
+✔ Review annotation guidelines
+
+✔ Annotate images and videos
+
+✔ Perform annotation quality assurance
+
+✔ Validate annotation consistency
+
+✔ Organize metadata
+
+✔ Export datasets (COCO, JSON)
+
+✔ Prepare datasets for machine learning workflows
+
+---
+
 # Featured Projects
 
-### Computer Vision Image Annotation
+## 🖼️ Computer Vision Image Annotation
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=computer-vision-image-annotation-techniques)](https://github.com/joanacoyle/computer-vision-image-annotation-techniques)
-
----
-
-### Computer Vision Video Object Tracking
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=computer-vision-video-object-tracking)](https://github.com/joanacoyle/computer-vision-video-object-tracking)
+[![Image Annotation](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=YOUR_IMAGE_REPOSITORY)](https://github.com/joanacoyle/YOUR_IMAGE_REPOSITORY)
 
 ---
 
-### Computer Vision Annotation with Roboflow
+## 🎥 Computer Vision Video Object Tracking
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=computer-vision-annotation-roboflow)](https://github.com/joanacoyle/computer-vision-annotation-roboflow)
+[![Video Annotation](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=YOUR_VIDEO_REPOSITORY)](https://github.com/joanacoyle/YOUR_VIDEO_REPOSITORY)
 
 ---
 
-### Machine Learning Portfolio
+## 🤖 Roboflow Computer Vision Portfolio
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=Home_Loan_Project_Joana_Coyle)](https://github.com/joanacoyle/Home_Loan_Project_Joana_Coyle)
+[![Roboflow](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=YOUR_ROBOFLOW_REPOSITORY)](https://github.com/joanacoyle/YOUR_ROBOFLOW_REPOSITORY)
+
+---
+
+## 📈 Machine Learning Portfolio
+
+[![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=YOUR_ML_REPOSITORY)](https://github.com/joanacoyle/YOUR_ML_REPOSITORY)
 
 ---
 
 # Technical Skills
 
-**Annotation Platforms**
+### Annotation Platforms
 
 - CVAT
 - Labelbox
 - Label Studio
 - Roboflow
 
-**Programming**
+### Programming
 
 - Python
 - Pandas
 - NumPy
 
-**Machine Learning**
+### Machine Learning
 
 - Scikit-learn
-- TensorFlow/Keras
+- TensorFlow / Keras
 
-**Development**
+### Version Control
 
 - Git
 - GitHub
-- Jupyter Notebook
+
+---
+
+# Certifications
+
+- AI & Machine Learning Bootcamp — Caltech CTME & Simplilearn
+- Image Labeling Essentials
+- Video Labeling Essentials
+- Image Segmentation Essentials
 
 ---
 
@@ -135,7 +160,7 @@ I'm currently seeking opportunities in:
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/joana-lima-coyle/
+[linkedin.com/in/joana-lima-coyle](https://www.linkedin.com/in/joana-lima-coyle/)
 
 📧 **Email**
 

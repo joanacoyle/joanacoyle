@@ -2,7 +2,7 @@
 
 # Computer Vision & AI Data Annotation Portfolio
 
-I'm an aspiring Computer Vision and AI Data Annotation professional with hands-on experience creating high-quality datasets for machine learning and computer vision applications.
+I'm a Computer Vision and AI Data Annotation practitioner with hands-on experience creating high-quality datasets for machine learning and computer vision applications.
 
 My portfolio demonstrates image annotation, video annotation, object tracking, semantic segmentation, and dataset quality assurance using industry-standard annotation platforms and structured annotation workflows.
 
@@ -110,7 +110,7 @@ Traffic scene annotation project using Roboflow with train/valid/test dataset ex
 
 ---
 
-# Technical Skills
+# Technical Toolkit
 
 ### Annotation Platforms
 
@@ -139,17 +139,17 @@ Traffic scene annotation project using Roboflow with train/valid/test dataset ex
 
 # Certifications
 
-- AI & Machine Learning Bootcamp — Caltech CTME & Simplilearn
-- Image Labeling Essentials
-- Video Labeling Essentials
-- Image Segmentation Essentials
+- AI & Machine Learning Bootcamp — Caltech CTME & Simplilearn (2025)
+- Image Labeling Essentials (2026)
+- Video Labeling Essentials (2026)
+- Image Segmentation Essentials (2026)
 
 ---
 
 # Currently Learning
 
-- Advanced Computer Vision
-- Dataset Quality Assurance
+- Advanced Computer Vision Annotation
+- Dataset Quality & QA
 - Responsible AI
 - Annotation Workflow Optimization
 
@@ -160,11 +160,9 @@ Traffic scene annotation project using Roboflow with train/valid/test dataset ex
 I'm currently seeking opportunities in:
 
 - Computer Vision Annotation
-- Image Annotation
-- Video Annotation
-- Data Labeling
+- Image & Video Annotation
 - Dataset Operations
-- AI Data Quality
+- AI Dataset Quality
 - Computer Vision Dataset Curation
 
 ---

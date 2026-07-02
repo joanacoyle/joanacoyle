@@ -71,29 +71,33 @@ My portfolio demonstrates image annotation, video annotation, object tracking, s
 
 ---
 
-# Featured Projects
+# # Featured Projects
 
 ## 🖼️ Computer Vision Image Annotation
+[View project](https://github.com/joanacoyle/computer-vision-image-annotation-techniques)
 
-[![Image Annotation](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=computer-vision-image-annotation-techniques)](https://github.com/joanacoyle/computer-vision-image-annotation-techniques)
+Portfolio of computer vision image annotation projects using CVAT and Roboflow, including classification, object detection, segmentation, keypoints, and AI-assisted labeling.
 
 ---
 
 ## 🎥 Computer Vision Video Object Tracking
+[View project](https://github.com/joanacoyle/computer-vision-video-object-tracking-label-studio)
 
-[![Video Object Tracking](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=computer-vision-video-object-tracking-label-studio)](https://github.com/joanacoyle/computer-vision-video-object-tracking-label-studio)
+Video object tracking project using Label Studio, including multi-object tracking, annotation review, quality assurance, and JSON export.
 
 ---
 
 ## 🎯 CVAT Detection & Segmentation
+[View project](https://github.com/joanacoyle/computer-vision-annotation-cvat-detection-segmentation)
 
-[![CVAT Detection & Segmentation](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=computer-vision-annotation-cvat-detection-segmentation)](https://github.com/joanacoyle/computer-vision-annotation-cvat-detection-segmentation)
+Computer vision annotation project using CVAT for object detection and semantic segmentation with SAM-assisted workflows.
 
 ---
 
 ## 🤖 Roboflow Traffic Scene Annotation
+[View project](https://github.com/joanacoyle/Roboflow.Traffic.SceneAnnotation)
 
-[![Roboflow](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=Roboflow.Traffic.SceneAnnotation)](https://github.com/joanacoyle/Roboflow.Traffic.SceneAnnotation)
+Traffic scene annotation project using Roboflow with train/valid/test dataset export.
 
 ---
 

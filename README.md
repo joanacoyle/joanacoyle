@@ -75,25 +75,34 @@ My portfolio demonstrates image annotation, video annotation, object tracking, s
 
 ## 🖼️ Computer Vision Image Annotation
 
-[![Image Annotation](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=YOUR_IMAGE_REPOSITORY)](https://github.com/joanacoyle/YOUR_IMAGE_REPOSITORY)
+[![Image Annotation](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=computer-vision-image-annotation-techniques)](https://github.com/joanacoyle/computer-vision-image-annotation-techniques)
 
 ---
 
 ## 🎥 Computer Vision Video Object Tracking
 
-[![Video Annotation](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=YOUR_VIDEO_REPOSITORY)](https://github.com/joanacoyle/YOUR_VIDEO_REPOSITORY)
+[![Video Object Tracking](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=computer-vision-video-object-tracking-label-studio)](https://github.com/joanacoyle/computer-vision-video-object-tracking-label-studio)
 
 ---
 
-## 🤖 Roboflow Computer Vision Portfolio
+## 🎯 CVAT Detection & Segmentation
 
-[![Roboflow](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=YOUR_ROBOFLOW_REPOSITORY)](https://github.com/joanacoyle/YOUR_ROBOFLOW_REPOSITORY)
+[![CVAT Detection & Segmentation](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=computer-vision-annotation-cvat-detection-segmentation)](https://github.com/joanacoyle/computer-vision-annotation-cvat-detection-segmentation)
 
 ---
 
-## 📈 Machine Learning Portfolio
+## 🤖 Roboflow Traffic Scene Annotation
 
-[![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=YOUR_ML_REPOSITORY)](https://github.com/joanacoyle/YOUR_ML_REPOSITORY)
+[![Roboflow](https://github-readme-stats.vercel.app/api/pin/?username=joanacoyle&repo=Roboflow.Traffic.SceneAnnotation)](https://github.com/joanacoyle/Roboflow.Traffic.SceneAnnotation)
+
+---
+
+## 📈 Additional Machine Learning Projects
+
+- Home Loan Repayment Prediction
+- Employee Turnover Prediction
+- Customer Cohort Analysis
+- Australian Sales Analysis
 
 ---
 

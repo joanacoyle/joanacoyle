@@ -1,10 +1,11 @@
-# Hi, I'm Joana Lima Coyle 
+
+# Hi, I'm Joana Lima Coyle
 
 # Computer Vision & AI Data Annotation Portfolio
 
-I'm a Computer Vision and AI Data Annotation practitioner with hands-on experience creating high-quality datasets for machine learning and computer vision applications.
+I'm a Computer Vision Data Annotation practitioner with hands-on experience in image annotation, video object tracking, and 3D LiDAR point cloud annotation using CVAT, Labelbox, Roboflow, and Label Studio.
 
-My portfolio demonstrates image annotation, video annotation, object tracking, semantic segmentation, and dataset quality assurance using industry-standard annotation platforms and structured annotation workflows.
+My portfolio demonstrates object detection, semantic and instance segmentation, polygon annotation, multi-object tracking, 3D cuboid annotation and alignment, AI-assisted labeling, and dataset quality assurance. I focus on creating accurate, high-quality annotations for computer vision and machine learning applications.
 
 ---
 
@@ -23,7 +24,26 @@ My portfolio demonstrates image annotation, video annotation, object tracking, s
 
 ---
 
-# Areas of Expertise
+## Areas of Expertise
+
+### 🚗 3D LiDAR Point Cloud Annotation
+
+- LiDAR Point Cloud Annotation
+- 3D Object Detection
+- 3D Cuboid Annotation and Alignment
+- Cuboid Position, Size, and Orientation Adjustment
+- Top, Side, and Front View Annotation
+- 3D Object Tracking
+- CVAT 3D Annotation Tools
+
+### 🎥 Video Annotation
+
+- Multi-Object Tracking
+- Frame-by-Frame Annotation
+- Object Identity Tracking
+- Bounding Box Adjustment Across Frames
+- Annotation Review and Correction
+- JSON Annotation Export
 
 ### 🖼️ Image Annotation
 
@@ -33,14 +53,9 @@ My portfolio demonstrates image annotation, video annotation, object tracking, s
 - Polygon Annotation
 - Semantic Segmentation
 - Instance Segmentation
-
-### 🎥 Video Annotation
-
-- Multi-Object Tracking
-- Frame-by-Frame Annotation
-- Object Identity Tracking
-- Video Quality Review
-- Annotation Review & Correction
+- Pose Keypoint Labeling
+- Facial Landmark Annotation
+- AI-Assisted Labeling
 
 ### 📊 Dataset Quality
 
@@ -48,60 +63,71 @@ My portfolio demonstrates image annotation, video annotation, object tracking, s
 - Guideline Compliance
 - Metadata Organization
 - Quality Assurance
-- COCO & JSON Export
+- COCO, YOLO, and JSON Exports
 - Dataset Validation
 
 ---
 
-# Annotation Workflow
+## Annotation Workflow
 
-✔ Review annotation guidelines
-
-✔ Annotate images and videos
-
-✔ Perform annotation quality assurance
-
-✔ Validate annotation consistency
-
-✔ Organize metadata
-
-✔ Export datasets (COCO, JSON)
-
-✔ Prepare datasets for machine learning workflows
+- Review annotation guidelines
+- Identify and label objects
+- Create bounding boxes, polygons, or 3D cuboids
+- Track objects across video or point cloud frames
+- Adjust annotations for accuracy and consistency
+- Perform annotation quality checks
+- Organize metadata
+- Export annotations in supported dataset formats
+- Prepare labeled datasets for computer vision workflows
 
 ---
 
-# # Featured Projects
+## Featured Projects
 
-## 🖼️ Computer Vision Image Annotation
-[View project](https://github.com/joanacoyle/computer-vision-image-annotation-techniques)
+### 🚗 3D LiDAR Point Cloud Annotation
 
-Portfolio of computer vision image annotation projects using CVAT and Roboflow, including classification, object detection, segmentation, keypoints, and AI-assisted labeling.
+**Status:** Portfolio documentation in progress
+
+Hands-on 3D LiDAR point cloud annotation using CVAT during DeeLab Academy's 3D Point Cloud Essentials training.
+
+- Created and aligned 3D cuboids for multiple objects.
+- Adjusted cuboid position, dimensions, and orientation.
+- Used Top, Side, and Front views to refine annotations.
+- Practiced 3D object tracking.
+
+Project screenshots and training examples will be added to the repository.
 
 ---
 
-## 🎥 Computer Vision Video Object Tracking
+### 🎥 Computer Vision Video Object Tracking
+
 [View project](https://github.com/joanacoyle/computer-vision-video-object-tracking-label-studio)
 
-Video object tracking project using Label Studio, including multi-object tracking, annotation review, quality assurance, and JSON export.
+Video object tracking project using Label Studio, including multi-object tracking, bounding box adjustment, object identity consistency, annotation review, and JSON export.
 
 ---
 
-## 🎯 CVAT Detection & Segmentation
-[View project](https://github.com/joanacoyle/computer-vision-annotation-cvat-detection-segmentation)
+### 🖼️ Computer Vision Image Annotation
+
+[View project](https://github.com/joanacoyle/computer-vision-image-annotation-techniques)
+
+Portfolio of computer vision image annotation projects using CVAT and Roboflow, including image classification, object detection, semantic and instance segmentation, polygon annotation, keypoints, and AI-assisted labeling.
+
+---
+
+### 🎯 CVAT Detection & Segmentation
 
 Computer vision annotation project using CVAT for object detection and semantic segmentation with SAM-assisted workflows.
 
 ---
 
-## 🤖 Roboflow Traffic Scene Annotation
-[View project](https://github.com/joanacoyle/Roboflow.Traffic.SceneAnnotation)
+### 🤖 Roboflow Traffic Scene Annotation
 
-Traffic scene annotation project using Roboflow with train/valid/test dataset export.
+Traffic scene annotation project using Roboflow with training, validation, and testing dataset exports.
 
 ---
 
-## 📈 Additional Machine Learning Projects
+### 📈 Additional Machine Learning Projects
 
 - Home Loan Repayment Prediction
 - Employee Turnover Prediction
@@ -110,7 +136,7 @@ Traffic scene annotation project using Roboflow with train/valid/test dataset ex
 
 ---
 
-# Technical Toolkit
+## Technical Toolkit
 
 ### Annotation Platforms
 
@@ -119,14 +145,21 @@ Traffic scene annotation project using Roboflow with train/valid/test dataset ex
 - Label Studio
 - Roboflow
 
-### Programming
+### Annotation Techniques
+
+- Image Classification and Object Detection
+- Bounding Boxes and Polygon Annotation
+- Semantic and Instance Segmentation
+- Video Object Tracking
+- 3D LiDAR Point Cloud Annotation
+- 3D Cuboid Alignment
+- AI-Assisted Annotation
+
+### Programming and Data Tools
 
 - Python
 - Pandas
 - NumPy
-
-### Machine Learning
-
 - Scikit-learn
 - TensorFlow / Keras
 
@@ -137,42 +170,47 @@ Traffic scene annotation project using Roboflow with train/valid/test dataset ex
 
 ---
 
-# Certifications
+## Certifications & Education
 
-- AI & Machine Learning Bootcamp — Caltech CTME & Simplilearn (2025)
-- Image Labeling Essentials (2026)
-- Video Labeling Essentials (2026)
-- Image Segmentation Essentials (2026)
-
----
-
-# Currently Learning
-
-- Advanced Computer Vision Annotation
-- Dataset Quality & QA
-- Responsible AI
-- Annotation Workflow Optimization
+- **3D Point Cloud Essentials** — DeeLab Academy (2026)
+- **Image Labeling Essentials** — DeeLab Academy (2026)
+- **Video Labeling Essentials** — DeeLab Academy (2026)
+- **Image Segmentation Essentials** (2026)
+- **Artificial Intelligence & Machine Learning Bootcamp** — Caltech CTME & Simplilearn (2025)
+- **B.A. Media Studies** — Hunter College
 
 ---
 
-# Career Interests
+## Currently Developing My Skills
 
-I'm currently seeking opportunities in:
-
-- Computer Vision Annotation
-- Image & Video Annotation
-- Dataset Operations
-- AI Dataset Quality
-- Computer Vision Dataset Curation
+- Advanced 3D LiDAR Annotation and Object Tracking
+- Computer Vision Image and Video Annotation
+- Annotation Accuracy and Dataset Quality
+- AI-Assisted Annotation Workflows
 
 ---
 
-# Connect with Me
+## Career Interests
 
-💼 **LinkedIn**
+I'm seeking hands-on opportunities in:
+
+- 3D LiDAR Point Cloud Annotation
+- Computer Vision Data Annotation
+- Video Object Tracking
+- Image and Video Annotation
+- 3D Object Detection and Cuboid Annotation
+- Computer Vision Dataset Preparation
+
+My primary interest is hands-on annotation work, creating and refining high-quality labeled data for computer vision systems.
+
+---
+
+## 🔗 Connect with Me
+
+**💼 LinkedIn**
 
 [linkedin.com/in/joana-lima-coyle](https://www.linkedin.com/in/joana-lima-coyle/)
 
-📧 **Email**
+**📧 Email**
 
-jolisantos@gmail.com
+[jolisantos@gmail.com](mailto:jolisantos@gmail.com)

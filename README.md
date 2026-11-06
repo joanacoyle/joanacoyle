@@ -115,6 +115,8 @@ Portfolio of computer vision image annotation projects using CVAT and Roboflow, 
 
 ### 🎯 CVAT Detection & Segmentation
 
+[View project](https://github.com/joanacoyle/computer-vision-annotation-cvat-detection-segmentation)
+
 Computer vision annotation project using CVAT for object detection and semantic segmentation with SAM-assisted workflows.
 
 ---

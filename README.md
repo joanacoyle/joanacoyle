@@ -123,6 +123,8 @@ Computer vision annotation project using CVAT for object detection and semantic 
 
 ### 🤖 Roboflow Traffic Scene Annotation
 
+[View project](https://github.com/joanacoyle/Roboflow.Traffic.SceneAnnotation)
+
 Traffic scene annotation project using Roboflow with training, validation, and testing dataset exports.
 
 ---

@@ -86,7 +86,7 @@ My portfolio demonstrates object detection, semantic and instance segmentation, 
 
 ### 🚗 3D LiDAR Point Cloud Annotation
 
-**Status:** Portfolio documentation in progress
+[View project](https://github.com/joanacoyle/3D-LiDAR-Point-Cloud-Annotation)
 
 Hands-on 3D LiDAR point cloud annotation using CVAT during DeeLab Academy's 3D Point Cloud Essentials training.
 
@@ -94,8 +94,6 @@ Hands-on 3D LiDAR point cloud annotation using CVAT during DeeLab Academy's 3D P
 - Adjusted cuboid position, dimensions, and orientation.
 - Used Top, Side, and Front views to refine annotations.
 - Practiced 3D object tracking.
-
-Project screenshots and training examples will be added to the repository.
 
 ---
 
